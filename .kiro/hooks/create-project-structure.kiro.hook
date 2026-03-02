@@ -1,0 +1,13 @@
+{
+  "enabled": true,
+  "name": "Create Project Structure",
+  "description": "Create project structure for Notes CRUD app",
+  "version": "1",
+  "when": {
+    "type": "userTriggered"
+  },
+  "then": {
+    "type": "runCommand",
+    "command": ""
+  }
+}
